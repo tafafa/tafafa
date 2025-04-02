@@ -3,8 +3,11 @@ Hi there! 👋 I’m a data analyst passionate about turning raw data into meani
 
 📌 What I’m Working On:
 🔹 SQL for Data Analysis – Writing complex queries, data cleaning, and performance optimization
+
 🔹 Python & Pandas – Data manipulation, exploratory data analysis, and visualization
+
 🔹 Dashboard & Reporting – Creating interactive visualizations with Power BI/Tableau
+
 🔹 Continuous Learning – Expanding my knowledge in data analytics and machine learning
 
 🚀 My Goal:
