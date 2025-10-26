@@ -59,7 +59,7 @@ I’m always open to collaborations, discussions, and learning opportunities in 
 
 ### 📫 Connect With Me
 <p align="left">
-  <a href="https://www.linkedin.com/thomastafafaanthonio/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/thomastafafaanthonio/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://medium.com/@thomasanthonio" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
   <a href="https://github.com/tafafa" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
