@@ -55,6 +55,10 @@ I’m always open to collaborations, discussions, and learning opportunities in 
 |-------------|----------------|------------|
 | [**EV Adoption Trends in Washington State**](https://github.com/tafafa/Exploring-Electric-Vehicle-Adoption-Trends-in-Washington-State) | Analyzing patterns of electric vehicle adoption using Python | Python, Pandas, Seaborn |
 
+| [**NHS Scotland Delayed Discharge**](https://github.com/tafafa/nhs-delayed-discharge) | Predicting Delayed Discharges us Machine Learning Models | Python, Pandas, Seaborn, Scikit-learn |
+
+| [**NHS England AE Peformance Dashboard**](https://github.com/tafafa/NHS-AE-Performance-Dashboard) | Interactive Excel dashboard analysing NHS England | Excel |
+
 ---
 
 ### 📫 Connect With Me
